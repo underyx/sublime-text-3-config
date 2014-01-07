@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Anaconda",
+		"Emmet",
+		"GitGutter",
+		"Liquid",
+		"Python Checker",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
